@@ -97,18 +97,15 @@ $13.95
 Included: 2 Eggs, Choice of Bacon or Sausage
 <img src="https://i.imgur.com/vnMsHJJ.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
-## French Toast
+### French Toast
 $6.95
 
-## Short Stack
+### Short Stack
 $6.95
 
-## Pancake (1x)
+### Pancake (1x)
 $3.95
 
-
-### Super Burger
-$4.99
 
 ### Full Meal
 2 Pancakes or French Toast <br>
