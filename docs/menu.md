@@ -249,7 +249,7 @@ $11.50
 
 
 ## *Teriyaki Plate*
-Meat, Broccoli, Carrots
+Included: Meat, Broccoli, Carrots
 <img src="https://i.imgur.com/1hshtbG.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 (Teriyaki Chicken)
 
@@ -314,7 +314,7 @@ L: $5.95
 
 
 ## *Mexican*
-Meat Choices: Chicken, Steak, Pork 
+Meat Choices: Chicken, Steak, Pork <br>
 Also Included: Chips & Salsa
 <img src="https://i.imgur.com/Fx0STYH.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
@@ -363,7 +363,7 @@ $11.95
 
 
 ## *Salads*
-Included: Iceberg Lettuce, Cheese, Tomatoes & Dressing
+Included: Iceberg Lettuce, Cheese, Tomatoes & Dressing <br>
 Dressing Options: Blue Cheese, Ceasar, Italian, Ranch, Thousand Island, Honey 
 <img src="https://i.imgur.com/E5vrcrF.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 (Teriyaki Chicken Salad)
