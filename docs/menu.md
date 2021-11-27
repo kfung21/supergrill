@@ -181,13 +181,13 @@ $4.99
 ### Veggie Burger
 $4.99
 
-### Add Cheese
+#### Add Cheese
 $1.00
 
-### Add Fried Egg
+#### Add Fried Egg
 $1.25
 
-### Add Extra Patty
+#### Add Extra Patty
 $2.50
 
 
