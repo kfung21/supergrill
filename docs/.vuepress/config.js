@@ -23,5 +23,21 @@ module.exports = {
           ],
         logo: 'https://i.imgur.com/hKC0qtr.png',
     },
+    plugins: [
+      [
+        '@vuepress/plugin-search',
+        {
+          locales: {
+            '/': {
+              placeholder: 'Search',
+            },
+            '/zh/': {
+              placeholder: '搜索',
+            },
+          },
+          maxSuggestions: 10,
+        },
+      ],
+    ],
     
 }
