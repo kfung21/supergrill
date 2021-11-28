@@ -7,7 +7,7 @@ actions:
   - text: Menu
     link: /Menu/
     type: primary
-  - text: They love us on Yelp!
+  - text: Yelp!
     link: https://www.yelp.com/biz/super-grill-and-breakfast-pleasanton
     type: secondary
 pageClass: homepage
