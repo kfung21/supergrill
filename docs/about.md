@@ -12,6 +12,7 @@ Local mom & pop shop and a real Pleasanton staple   -->
 <img src="https://i.imgur.com/aWzgAja.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
 ## Info
+<a href="https://www.clover.com/online-ordering/super-grill--breakfast-pleasanton" target="blank">Order Online!</a> <br>
 Address: 4211 Rosewood Dr Ste 1A Pleasanton, CA 94588 <br>
 Phone: (925) 463-6310 <br><br>
 Hours: <br>

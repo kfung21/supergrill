@@ -7,8 +7,8 @@ actions:
   - text: Menu
     link: /Menu/
     type: primary
-  - text: Yelp!
-    link: https://www.yelp.com/biz/super-grill-and-breakfast-pleasanton
+  - text: Order Online
+    link: https://www.clover.com/online-ordering/super-grill--breakfast-pleasanton
     type: secondary
 pageClass: homepage
 # actionText: Posts
