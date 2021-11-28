@@ -13,6 +13,10 @@ module.exports = {
                 link: '/menu',
             },
             {
+                text: 'Order',
+                link: 'https://www.clover.com/online-ordering/super-grill--breakfast-pleasanton',
+            },
+            {
               text: 'About',
               link: '/about',
             },
