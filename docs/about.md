@@ -27,4 +27,4 @@ Sun: Closed <br>
 <a href="https://goo.gl/maps/sG2fJkZ2xbiDDFkKA" target="blank">Google Maps</a> <br>
 <a href="https://www.yelp.com/biz/super-grill-and-breakfast-pleasanton" target="blank">Yelp! Reviews</a> <br><br>
 
-<img src="https://i.imgur.com/yeoIf6H.png" width=50%>
+<!-- <img src="https://i.imgur.com/yeoIf6H.png" width=50%> -->
