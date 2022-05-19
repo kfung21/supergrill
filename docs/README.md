@@ -22,5 +22,5 @@ features:
 # footer: VuePress 
 ---
 
-<img src="https://i.imgur.com/yeoIf6H.png" width=50%>
+<!-- <img src="https://i.imgur.com/yeoIf6H.png" width=50%> -->
 <!-- <Home/> -->
