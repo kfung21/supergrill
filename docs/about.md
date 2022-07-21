@@ -1,6 +1,6 @@
 ---
 title: About
-date: 1-1-2022
+date: 7-20-2022
 tags: ["About"]
 author: Super Grill
 blog: true
@@ -16,12 +16,12 @@ Local mom & pop shop and a real Pleasanton staple   -->
 Address: 4211 Rosewood Dr Ste 1A Pleasanton, CA 94588 <br>
 Phone: (925) 463-6310 <br><br>
 Hours: <br>
-Mon: 6:30AM–8:30PM <br>
-Tue: 6:30AM–8:30PM <br>
-Wed: 6:30AM–8:30PM <br>
-Thu: 6:30AM–8:30PM <br>
-Fri: 6:30AM–8:30PM <br>
-Sat: 6:30AM–8PM <br>
+Mon: 6:30 AM – 2:30 PM <br>
+Tue: 6:30 AM – 8:00 PM <br>
+Wed: 6:30 AM – 8:00 PM <br>
+Thu: 6:30 AM – 8:00 PM <br>
+Fri: 6:30 AM – 8:00 PM <br>
+Sat: 6:30 AM – 8:00 PM <br>
 Sun: Closed <br>
 
 <a href="https://goo.gl/maps/sG2fJkZ2xbiDDFkKA" target="blank">Google Maps</a> <br>

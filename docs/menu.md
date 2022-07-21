@@ -15,53 +15,65 @@ summary: Menu
 
 # Breakfast
 ## *Breakfast Burritos*
-Bacon, Sausage, Ham, Spam, Linguisa, Beef, Turkey Patty, Chorizo, Vegetarian
+Bacon, Sausage, Ham, Spam, Linguisa, Beef, Chorizo, Avocado, Vegetarian
 <img src="https://i.imgur.com/IFVgdcz.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 (Bacon Breakfast Burrito w/added Avocado and Mushrooms)
-
 
 ### Pick-One-Meat
 $9.95  <br>
 Each additional meat $2
 
+### Turkey Patty
+$10.95
+
 ### Chicken
-$11.50
+$11.95
 
 ###	Steak
 $13.95
-
+<br>
 
 ## *Breakfast Sandwiches*
 Meats: Bacon, Sausage, Ham, Spam, Linguisa, Beef Patty, Turkey Patty
 <img src="https://i.imgur.com/HjkVUlK.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 (Fried Egg Sandwich with Double Bacon, Tomato, and Avocado)
 
-### Pick-One-Meat
+### Egg
+$6.95
+
+### Avocado
+$7.95
+
+### Pick-One-Meat (Listed Above)
 $8.95 <br>
 Each additional meat $2
 
 ### Chicken
-$11.50
+$11.95
 
 ###	Steak
 $13.95
 
 ## *Omelets*
 Included: 3 Eggs, Toast and Hash Browns or Rice <br>
-Meat Options: Bacon, Sausage, Ham, Linguisa, Beef/Turkey Patty, Chorizo
+Meat Options: Bacon, Sausage, Ham, Linguisa, Beef Patty, Chorizo
 <img src="https://i.imgur.com/l78X5q5.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
 ### Cheese
 $8.95
 
-### Pick-One-Meat
+### Pick-One-Meat (Listed Above)
 $9.95 
 
+### Turkey Patty
+$10.95
+
 ### Chicken
-$11.50
+$11.95
 
 ### Steak
 $13.95
+
 
 ### Denver
 Ham, Onions, Bell Peppers <br>
@@ -94,7 +106,7 @@ $13.95
 
 
 ## *Pancakes*
-Included: 2 Eggs, Choice of Bacon or Sausage
+Included: 2 Eggs, Choice of Bacon or Sausage, French Toast
 <img src="https://i.imgur.com/vnMsHJJ.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
 ### French Toast
@@ -103,8 +115,8 @@ $6.95
 ### Short Stack
 $6.95
 
-### Pancake (1x)
-$3.95
+### Two Pancake 
+$11.95
 
 
 ### Full Meal
@@ -114,27 +126,38 @@ $9.95
 
 ## *Breakfast Side Orders*
 
+### Bell Pepper
+$0.50
+
+### Avocado or Mushroom
+$1.00
+
+### Bell Pepper & Onion
+$1.00
+
 ### Egg (1x)
 $1.25
 
 ### Toast
 $1.95
 
+### Bacon Strip (1x)
+$1.75
+
+### Sausage Patty (1x)
+$1.75
+
 ### Hash Browns
 $2.95
 
-### Bacon Strips (2x)
+### Ham or Spam
 $3.50
-
-### Sausage Patties (2x)
-$3.50
-
-### Ham
-$3.25
 
 ### Linguica
 $3.50
 
+### Pancake
+$3.95
 
 # Lunch & Dinner
 
@@ -142,11 +165,14 @@ $3.50
 1/3 Patty with Mayo, Lettuce, Tomatoes, Onion
 <img src="https://i.imgur.com/2Fnund9.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
-### Super Burger
+### Burger
 $4.99
 
-### Super Cheese Burger
-$5.50
+### Teriyaki Burger
+$5.95
+
+### Cheese Burger
+$5.99
 
 ### Western Burger
 Bacon, American Cheese <br>
@@ -166,20 +192,20 @@ $7.50
 
 ### California Burger
 Bacon, Avocado, Onion, Swiss Cheese <br>
-$8.50
+$8.99
 
 ### Pastrami Burger
 Grilled Onion, Swiss Cheese <br>
 $9.50
 
-### Turkey Burger
-$4.99
+### Chicken Burger
+$4.95
 
-### Super Burger
-$4.99
+### Turkey Burger
+$5.99
 
 ### Veggie Burger
-$4.99
+$5.99
 
 #### Add Cheese
 $1.00
@@ -203,7 +229,7 @@ $5.95
 $6.95
 
 ### Chicken Club Sandwich
-$12.50
+$13.50
 
 ### Fried Fish Sandwich
 $9.95
@@ -235,8 +261,8 @@ $5.95
 ### Turkey Avocado & Cheese
 $6.95
 
-### Turkey Club
-$6.95
+### Turkey Club 
+$7.95
 
 ### Steak Sandwich
 $13.50
@@ -254,24 +280,26 @@ Included: Meat, Broccoli, Carrots
 (Teriyaki Chicken)
 
 ### Teriyaki Chicken
-$11.50
-
-### Teriyaki Beef
-$13.50
+$11.99
 
 ### Teriyaki Pork
-$10.50
+$11.99
+
+### Teriyaki Beef
+$13.99
 
 ### Teriyaki Prawn
-$13.50
+$14.50
 
 ### Teriyaki Salmon
-$13.50
+$16.50
 
 ### Teriyaki Combo Box
 2 Meats & 2 Potstickers, Salmon is Extra $2 <br>
-$14.50
+$15.50
 
+### Vegetarian Teriyaki 
+$10.95
 
 ## *Side Orders*
 <img src="https://i.imgur.com/se8jEC6.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
@@ -306,7 +334,7 @@ L: $4.95
 L: $6.95
 
 ### Chili Steak Fries
-L: $11.50
+L: $15.99
 
 ### Frings
 Fries & Onion Rings <br>
@@ -332,6 +360,14 @@ $14.95
 Meat, Beans, Rice, Cheese, Sour Cream, Salsa <br>
 $10.95
 
+### Super Shrimp or Fish Burrito
+Shrimp or Fish, Beans, Rice, Cheese, Sour Cream, Salsa <br>
+$14.95
+
+### Super Veggie Burrito
+Beans, Rice, Cheese, Sour Cream, Salsa <br>
+$9.95
+
 ### Cheese Quesadilla
 Cheese, Sour Cream, Salsa <br>
 $8.95
@@ -340,10 +376,21 @@ $8.95
 Meat, Cheese, Sour Cream, Salsa <br>
 $12.95
 
+### Veggie Quesadilla
+Veggies, Cheese, Sour Cream, Salsa <br>
+$10.95
+
 ### Carne Asada Plate
 Bean, Rice, Cheese, Pico de Gallo, Sour Cream, Lettuce, Corn Tortillas <br>
 $16.50
 
+### Rice and Beans
+<br>
+$2.50
+
+### Tortilla Chips
+<br>
+$2.00
 
 ## *Deep Fried*
 <img src="https://i.imgur.com/qftuK5t.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
@@ -374,6 +421,9 @@ $3.50
 ### Green Salad
 $4.95
 
+### Avocado Salad with Veggie Patty
+$10.95
+
 ### Teriyaki Chicken Salad
 $11.95
 
@@ -382,10 +432,16 @@ $13.95
 
 ### California Salad
 Bacon & Avocado <br>
-$11.95
+$10.95
 
 ### Chicken Caesar Salad
 Chicken Breast <br>
+$11.95
+
+### Crispy Chicken Salad
+$10.95
+
+### Grilled Chicken Salad
 $11.95
 
 ### Shrimp Salad
@@ -393,7 +449,43 @@ Shrimp & Avocado <br>
 $12.95
 
 
-## *Beer*
+## *Drinks*
+
+### Coffee
+$2.25
+
+### Hot Tea
+$1.85
+
+### Milk
+$2.00
+
+### Apple Juice
+$2.50
+
+### Orange Juice 
+S: $2.00
+M: $3.00
+
+### Soda
+M: $2.25
+L: $3.20
+
+### Soda Can
+$1.50
+
+### Mexican Soda Large
+$4.50
+
+### Energy Drink
+$3.00
+
+### Red Bull
+$6.00
+
+### Gatorade, San Pellegrino, or Snapple
+$2.75
+
 ### Can Beer
 $2.50
 
