@@ -1,6 +1,6 @@
 ---
 title: Menu
-date: 1-1-2022
+date: 7-23-2022
 tags: ["Breakfast", "Burgers"]
 author: Super Grill
 blog: true
@@ -23,8 +23,8 @@ Bacon, Sausage, Ham, Spam, Linguisa, Beef, Chorizo, Avocado, Vegetarian
 $9.95  <br>
 Each additional meat $2
 
-### Turkey Patty
-$10.95
+<!-- ### Turkey Patty
+$10.95 -->
 
 ### Chicken
 $11.95
@@ -34,15 +34,15 @@ $13.95
 <br>
 
 ## *Breakfast Sandwiches*
-Meats: Bacon, Sausage, Ham, Spam, Linguisa, Beef Patty, Turkey Patty
+Meats: Bacon, Sausage, Ham, Spam, Linguisa, Beef Patty
 <img src="https://i.imgur.com/HjkVUlK.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 (Fried Egg Sandwich with Double Bacon, Tomato, and Avocado)
 
-### Egg
+<!-- ### Egg
 $6.95
 
 ### Avocado
-$7.95
+$7.95 -->
 
 ### Pick-One-Meat (Listed Above)
 $8.95 <br>
@@ -73,7 +73,6 @@ $11.95
 
 ### Steak
 $13.95
-
 
 ### Denver
 Ham, Onions, Bell Peppers <br>
@@ -115,25 +114,24 @@ $6.95
 ### Short Stack
 $6.95
 
-### Two Pancake 
-$11.95
-
+### One Pancake 
+$3.95
 
 ### Full Meal
 2 Pancakes or French Toast <br>
-$9.95
+$11.95
 
 
 ## *Breakfast Side Orders*
 
-### Bell Pepper
+<!-- ### Bell Pepper
 $0.50
 
 ### Avocado or Mushroom
 $1.00
 
 ### Bell Pepper & Onion
-$1.00
+$1.00 -->
 
 ### Egg (1x)
 $1.25
@@ -141,23 +139,20 @@ $1.25
 ### Toast
 $1.95
 
-### Bacon Strip (1x)
-$1.75
-
-### Sausage Patty (1x)
-$1.75
-
 ### Hash Browns
 $2.95
 
-### Ham or Spam
+### Bacon Strips (2x)
 $3.50
+
+### Sausage Patty (2x)
+$3.50
+
+### Ham or Spam
+$3.25
 
 ### Linguica
 $3.50
-
-### Pancake
-$3.95
 
 # Lunch & Dinner
 
@@ -165,13 +160,10 @@ $3.95
 1/3 Patty with Mayo, Lettuce, Tomatoes, Onion
 <img src="https://i.imgur.com/2Fnund9.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
-### Burger
+### Super Burger
 $4.99
 
-### Teriyaki Burger
-$5.95
-
-### Cheese Burger
+### Super Cheese Burger
 $5.99
 
 ### Western Burger
@@ -192,14 +184,11 @@ $7.50
 
 ### California Burger
 Bacon, Avocado, Onion, Swiss Cheese <br>
-$8.99
+$8.50
 
 ### Pastrami Burger
 Grilled Onion, Swiss Cheese <br>
 $9.50
-
-### Chicken Burger
-$4.95
 
 ### Turkey Burger
 $5.99
@@ -226,10 +215,10 @@ Choice of White, Wheat, Sourdough, French Roll Breads
 $5.95
 
 ### BLT Avocado & Cheese
-$6.95
+$7.95
 
 ### Chicken Club Sandwich
-$13.50
+$12.50
 
 ### Fried Fish Sandwich
 $9.95
@@ -360,13 +349,9 @@ $14.95
 Meat, Beans, Rice, Cheese, Sour Cream, Salsa <br>
 $10.95
 
-### Super Shrimp or Fish Burrito
-Shrimp or Fish, Beans, Rice, Cheese, Sour Cream, Salsa <br>
-$14.95
-
-### Super Veggie Burrito
+<!-- ### Super Veggie Burrito
 Beans, Rice, Cheese, Sour Cream, Salsa <br>
-$9.95
+$9.95 -->
 
 ### Cheese Quesadilla
 Cheese, Sour Cream, Salsa <br>
@@ -376,21 +361,21 @@ $8.95
 Meat, Cheese, Sour Cream, Salsa <br>
 $12.95
 
-### Veggie Quesadilla
+<!-- ### Veggie Quesadilla
 Veggies, Cheese, Sour Cream, Salsa <br>
-$10.95
+$10.95 -->
 
 ### Carne Asada Plate
 Bean, Rice, Cheese, Pico de Gallo, Sour Cream, Lettuce, Corn Tortillas <br>
 $16.50
 
-### Rice and Beans
+<!-- ### Rice and Beans
 <br>
 $2.50
 
 ### Tortilla Chips
 <br>
-$2.00
+$2.00 -->
 
 ## *Deep Fried*
 <img src="https://i.imgur.com/qftuK5t.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
@@ -421,8 +406,8 @@ $3.50
 ### Green Salad
 $4.95
 
-### Avocado Salad with Veggie Patty
-$10.95
+<!-- ### Avocado Salad with Veggie Patty
+$10.95 -->
 
 ### Teriyaki Chicken Salad
 $11.95
@@ -432,25 +417,41 @@ $13.95
 
 ### California Salad
 Bacon & Avocado <br>
-$10.95
+$11.95
 
 ### Chicken Caesar Salad
 Chicken Breast <br>
 $11.95
 
-### Crispy Chicken Salad
+<!-- ### Crispy Chicken Salad
 $10.95
 
 ### Grilled Chicken Salad
-$11.95
+$11.95 -->
 
 ### Shrimp Salad
 Shrimp & Avocado <br>
 $12.95
 
 
-## *Drinks*
+## *Beer*
+### Can Beer
+$2.50
 
+### Large Can Beer
+$6.00
+
+### Bottled Beer
+$3.00
+
+### Draft Japanese Kirin Beer
+S: $3.00
+M: $4.00
+L: $6.00
+Pitcher: $14.00
+
+
+## *Drinks*
 ### Coffee
 $2.25
 
@@ -485,21 +486,6 @@ $6.00
 
 ### Gatorade, San Pellegrino, or Snapple
 $2.75
-
-### Can Beer
-$2.50
-
-### Large Can Beer
-$6.00
-
-### Bottled Beer
-$3.00
-
-### Draft Japanese Kirin Beer
-S: $3.00
-M: $4.00
-L: $6.00
-Pitcher: $14.00
 
 ## Disclaimer
 *Consuming raw or undercooked meats, poultry or eggs may increase your risk of
