@@ -20,17 +20,17 @@ Bacon, Sausage, Ham, Spam, Linguisa, Beef, Chorizo, Avocado, Vegetarian
 (Bacon Breakfast Burrito w/added Avocado and Mushrooms)
 
 ### Pick-One-Meat
-$9.95  <br>
+$10.95  <br>
 Each additional meat $2
 
 <!-- ### Turkey Patty
 $10.95 -->
 
 ### Chicken
-$11.95
+$12.95
 
 ###	Steak
-$13.95
+$14.95
 <br>
 
 ## *Breakfast Sandwiches*
@@ -45,46 +45,43 @@ $6.95
 $7.95 -->
 
 ### Pick-One-Meat (Listed Above)
-$8.95 <br>
+$10.95 <br>
 Each additional meat $2
 
 ### Chicken
-$11.95
+$12.95
 
 ###	Steak
-$13.95
+$14.95
 
 ## *Omelets*
 Included: 3 Eggs, Toast and Hash Browns or Rice <br>
-Meat Options: Bacon, Sausage, Ham, Linguisa, Beef Patty, Chorizo
+Meat Options: Bacon, Sausage, Ham, Linguisa, Beef Patty, Turkey Patty, Chorizo
 <img src="https://i.imgur.com/l78X5q5.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
 ### Cheese
-$8.95
+$9.95
 
 ### Pick-One-Meat (Listed Above)
-$9.95 
-
-### Turkey Patty
-$10.95
+$10.95 
 
 ### Chicken
-$11.95
+$12.95
 
 ### Steak
-$13.95
+$14.95
 
 ### Denver
 Ham, Onions, Bell Peppers <br>
-$10.95
+$11.95
 
 ### Super
 Bacon, Onions, Tomatoes <br>
-$10.95
+$11.95
 
 ### Vegetarian
 Avocado, Onions, Bell Peppers, Mushrooms, Tomatoes <br>
-$9.95
+$11.95
 
 
 ## *Two Egg Breakfast*
@@ -92,16 +89,16 @@ Included: Two Eggs, Toast, and Hash Browns or Rice
 Meat Options: Bacon, Sausage, Ham, Spam, Linguisa, Beef/Turkey Patty
 
 ### No Meat
-$6.95
+$8.95
 
 ### Pick-One-Meat
-$9.95 
+$10.95 
 
 ### Chicken
-$11.50
+$12.95
 
 ### Steak
-$13.95
+$14.95
 
 
 ## *Pancakes*
@@ -109,17 +106,17 @@ Included: 2 Eggs, Choice of Bacon or Sausage, French Toast
 <img src="https://i.imgur.com/vnMsHJJ.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
 ### French Toast
-$6.95
+$8.95
 
 ### Short Stack
-$6.95
+$7.95
 
 ### One Pancake 
 $3.95
 
 ### Full Meal
 2 Pancakes or French Toast <br>
-$11.95
+$12.95
 
 
 ## *Breakfast Side Orders*
@@ -134,7 +131,7 @@ $1.00
 $1.00 -->
 
 ### Egg (1x)
-$1.25
+$1.95
 
 ### Toast
 $1.95
@@ -160,11 +157,12 @@ $3.50
 1/3 Patty with Mayo, Lettuce, Tomatoes, Onion
 <img src="https://i.imgur.com/2Fnund9.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
-### Super Burger
-$4.99
-
-### Super Cheese Burger
+### Cheese Burger
 $5.99
+
+### Deluxe Spicy Burger
+Chicken or Beef, House Chili Sauce, 2 Cheese, Avocado, Egg <br>
+$10.99
 
 ### Western Burger
 Bacon, American Cheese <br>
@@ -190,35 +188,41 @@ $8.50
 Grilled Onion, Swiss Cheese <br>
 $9.50
 
+### Chicken Burger
+$5.99
+
+### Salmon Burger
+$8.99
+
 ### Turkey Burger
 $5.99
 
 ### Veggie Burger
-$5.99
+$7.99
 
 #### Add Cheese
 $1.00
 
 #### Add Fried Egg
-$1.25
+$1.50
 
 #### Add Extra Patty
-$2.50
+$3.50
 
 
 ## *Sandwiches*
-Choice of White, Wheat, Sourdough, French Roll Breads
+Choice of White, Wheat, Sourdough Breads
 <img src="https://i.imgur.com/e1ZFdlI.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 
 
 ### BLT
-$5.95
+$6.95
 
 ### BLT Avocado & Cheese
 $7.95
 
 ### Chicken Club Sandwich
-$12.50
+$13.50
 
 ### Fried Fish Sandwich
 $9.95
@@ -233,10 +237,10 @@ $11.50
 $5.95
 
 ### Hot Pastrami & Cheese
-$8.95
+$11.50
 
 ### Linguica Sandwich
-$6.95
+$7.95
 
 ### Patty Melt
 $5.95
@@ -245,7 +249,7 @@ $5.95
 $11.50
 
 ### Tuna Melt
-$5.95
+$6.95
 
 ### Turkey Avocado & Cheese
 $6.95
@@ -287,9 +291,6 @@ $16.50
 2 Meats & 2 Potstickers, Salmon is Extra $2 <br>
 $15.50
 
-### Vegetarian Teriyaki 
-$10.95
-
 ## *Side Orders*
 <img src="https://i.imgur.com/se8jEC6.jpg&auto=format&fit=crop&w=1335&q=80" width=100%>
 (Chili Steak Fries)
@@ -299,35 +300,35 @@ S: $2.50
 L: $4.50
 
 ### Curly Fries
-S: $3.50
-L: $6.50
+S: $4.00
+L: $7.50
 
 ### Onion Rings
 S: $3.50
 L: $5.50
 
 ### Cheese Sticks
-S: $3.95
-L: $5.95
+S: $3.99
+L: $5.99
 
 ### Zucchini
-L: $4.95
+L: $5.99
 
 ### Mushrooms
-L: $4.95
+L: $4.99
 
 ### Potstickers
-L: $4.95
+L: $4.99
 
 ### Chili Cheese Fries
-L: $6.95
+L: $6.99
 
 ### Chili Steak Fries
 L: $15.99
 
 ### Frings
 Fries & Onion Rings <br>
-L: $5.95
+L: $6.00
 
 
 ## *Mexican*
@@ -337,17 +338,17 @@ Also Included: Chips & Salsa
 
 ### Soft Taco (1x)
 Grilled Onion, Cheese, Cilantro <br>
-$4.00
+$4.55
 
 ### Soft Tacos (3x)
-$10.95
+$13.95
 
 ### Fish or Shrimp Tacos (3x)
 $14.95
 
 ### Super Burrito
 Meat, Beans, Rice, Cheese, Sour Cream, Salsa <br>
-$10.95
+$13.95
 
 <!-- ### Super Veggie Burrito
 Beans, Rice, Cheese, Sour Cream, Salsa <br>
@@ -355,7 +356,7 @@ $9.95 -->
 
 ### Cheese Quesadilla
 Cheese, Sour Cream, Salsa <br>
-$8.95
+$9.95
 
 ### Meat Quesadilla
 Meat, Cheese, Sour Cream, Salsa <br>
