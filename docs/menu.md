@@ -360,7 +360,7 @@ $9.95
 
 ### Meat Quesadilla
 Meat, Cheese, Sour Cream, Salsa <br>
-$12.95
+$13.95
 
 <!-- ### Veggie Quesadilla
 Veggies, Cheese, Sour Cream, Salsa <br>
@@ -437,26 +437,28 @@ $12.95
 
 ## *Beer*
 ### Can Beer
-$2.50
-
-### Large Can Beer
-$6.00
+$3.50
 
 ### Bottled Beer
-$3.00
+$3.50
 
 ### Draft Japanese Kirin Beer
-S: $3.00
-M: $4.00
-L: $6.00
-Pitcher: $14.00
+M: $4.50
+L: $6.50
+XL: $11.00
+Pitcher: $18.00
 
 
 ## *Drinks*
-### Coffee
-$2.25
+### Iced French Coffee
+With Condensed Milk
+$6.00
 
-### Hot Tea
+### Iced French Mocha
+With Condensed Milk
+$6.50
+
+<!-- ### Hot Tea
 $1.85
 
 ### Milk
@@ -486,7 +488,7 @@ $3.00
 $6.00
 
 ### Gatorade, San Pellegrino, or Snapple
-$2.75
+$2.75 -->
 
 ## Disclaimer
 *Consuming raw or undercooked meats, poultry or eggs may increase your risk of
